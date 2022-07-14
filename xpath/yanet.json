@@ -1,6 +1,7 @@
 {
+  "author":"Tangsan99999",
   "ua": "",
-  "homeUrl": "https://netflix.mom",
+  "homeUrl": "https://netflix.mom/",
   "dcPlayUrl": "true",
   "cateManual": {"电影": "1","电视剧": "2", "综艺": "3","动漫": "4","4K": "34"},
   "homeVodNode": "//div[@class=('module-item-cover')]",
