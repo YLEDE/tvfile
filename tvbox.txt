@@ -262,7 +262,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/555电影.json"
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/555.json"
 		},
 		{
 			"key": "csp_biubiu_hdmoli",
