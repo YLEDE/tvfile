@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.bidiys.cc",
+  "homeUrl": "https://www.bidiys.cc/",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.bidiys.cc/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
@@ -8,15 +8,13 @@
   "dcPlayUrl": "true",
   "cateManual": {
     "南瓜电影": "nanguady",
-    "4K专区": "huiyuanzhuanqu",
     "电影": "dianying",
-    //"连续剧": "lianxuju",
+    "电视剧": "lianxuju",
     "国产剧": "guochanju",
     "港台剧": "gangtaiju",
     "日韩剧": "rihanju",
     "欧美剧": "oumeiju",
     "其他海外": "qita",
-    "日本番剧": "rbdm",
     "动漫": "dongman",
     "综艺": "zongyi"
   },
