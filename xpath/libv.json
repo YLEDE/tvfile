@@ -1,16 +1,9 @@
 {
-  "author": "Tangsan99999",
+  "author":"Tangsan99999",
   "ua": "",
-  "homeUrl": "https://www.libvio.me",
+  "homeUrl": "https://www.libvio.me/",
   "dcPlayUrl": "true",
-  "cateManual": {
-    "电影": "1",
-    "剧集": "2",
-    "综艺": "3",
-    "动漫": "4",
-    "日韩剧": "15",
-    "欧美剧": "16"
-  },
+  "cateManual": {"电影": "1","剧集": "2","综艺": "3","动漫": "4","日韩剧": "15","欧美剧": "16"},
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
   "homeVodName": "/@title",
   "homeVodNameR": "",
@@ -34,9 +27,18 @@
   "dtImg": "//a[contains(@class,'pic')]/img/@data-original",
   "dtImgR": "",
   "dtCate": "//div[contains(@class,'stui-content__detail')]/p[1]/text()",
-  "dtCateR": "",
-  "dtYear": "//div[contains(@class,'myui-content__detail')]/p[1]/a[3]/text()",
-  "dtDesc": "//div[contains(@class,'stui-content__detail')]/p[6]/span[3]/text()",
+  "dtCateR": "\\S+：(\\S+)",
+  "dtYear": "//div[contains(@class,'stui-content__detail')]/p[1]/text()",
+  "dtYearR": "\\S+年份：(\\S+)",
+  "dtArea": "//div[contains(@class,'stui-content__detail')]/p[1]/text()",
+  "dtAreaR": "\\S+地区：(\\S+)",
+  "dtMark": "",
+  "dtMarkR": "",
+  "dtActor": "//p[contains(text(),'主演')]/text()",
+  "dtActorR": "\\S+：(\\S+)",
+  "dtDirector": "//p[contains(text(),'导演')]/text()",
+  "dtDirectorR": "\\S+导演：(\\S+)",
+  "dtDesc": "//span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'stui-vodlist__head')]/div[contains(@class,'stui-pannel__head clearfix')]/h3",
   "dtFromName": "/text()",
@@ -56,7 +58,7 @@
   "scVodIdR": "/detail/(\\w+).html",
   "scVodImg": "/@data-original",
   "scVodMark": "/span[2]/text()",
-  "filter": {
+  "filter":{
     "1":[
       {
         "key": "class",
@@ -357,7 +359,6 @@
           {"n": "其他","v": "其他"}
         ]},
       {
-        //唐三长老接口存，ajk编写
         "key": "year",
         "name": "年份",
         "value": [
