@@ -175,6 +175,16 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tkys.json"
 		},
 		{
+			"key":"csp_biubiu_nf",
+			"name":"奈菲",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/nf.json"
+		},
+		{
 			"key":"csp_biubiu_星空影视",
 			"name":"星空影视",
 			"type":3,
@@ -214,7 +224,6 @@
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lanmei.json"
 		},
-		
 		{
 			"key": "csp_biubiu_newfii",
 			"name": "奈落影院",
@@ -525,6 +534,15 @@
 			"quickSearch":1,
 			"filterable":1
 		}
+	],
+	"lives":
+	[
+		{
+			"group":"redirect","channels":
+			[{
+				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2LnN0ZXZlZWUueHl6L2ZpbGVzLzYyYzRkZjhmNjA5YWUvbXl0diUyMCgxKS50eHQ="]
+			}]
+		} 
 	],
 	"parses":[
 		{"name":"解析聚合","type":3,"url":"Demo"},
