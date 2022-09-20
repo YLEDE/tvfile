@@ -1,10 +1,9 @@
 {
-
     "title": "氢视频",
     "author": "Mr.zuo",
     "Headers":"MOBILE_UA",
     "PicNeedProxy":"0",
-    "homeContent":"1",
+    "homeContent":"0",
     "firstpage": "1",
     "class_url": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
     "class_name": "电影&电视剧&综艺&动漫",
