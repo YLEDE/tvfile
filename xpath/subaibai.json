@@ -1,4 +1,5 @@
-{"作者":"搞死一个是一个",
+{
+"作者":"搞死一个是一个",
 "站名":"素白白",
 "主页url":"https://www.subaibaiys.com",
 "请求头":"",
@@ -45,4 +46,5 @@
 "搜索链接":"href=\"&&\"",
 "搜索链接前缀":"https://www.subaibaiys.com",
 "分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}",
-"分类":"首页$空#电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama#动漫剧$anime-drama#公告留言$resources-for-help"}
+"分类":"首页$空#电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama#动漫剧$anime-drama#公告留言$resources-for-help"
+}
