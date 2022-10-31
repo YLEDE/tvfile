@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV-1,http://192.168.31.1:4022/rtp/239.3.1.129:8008
+CCTV-1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2000210103.m3u8
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
