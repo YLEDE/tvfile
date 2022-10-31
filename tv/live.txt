@@ -75,9 +75,9 @@ CCTV-17,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2000204203.m3u8
 CCTV-17,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?
 
 CCTV-4k,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2000266303.m3u8
-CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV-4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-CCTV-4K超高清,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+CCTV-4K,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 
 卫视,#genre#
 湖南卫视,http://111.20.33.93/TVOD/88888888/224/3221225799/index.m3u8
