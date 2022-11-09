@@ -1,6 +1,6 @@
 央视,#genre#
 
-CCTV-1综合,http://10.255.200.2/live/CCTV1高清/index.m3u8
+CCTV-1综合,http://iptv.tvfix.org/hls/cctv1hd.m3u8
 
 CCTV-2财经,http://hellotv-iptv.uwp.ac.cn/live/cctv2hd.m3u8
 
