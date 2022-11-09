@@ -1,6 +1,6 @@
 央视,#genre#
 
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-1综合,https://epg.pm/stream/922413d86db839d4ec249763ba65532ef3c7b9f5666f4959131d7d1e96b52e57.m3u8
 
 CCTV-2财经,http://hellotv-iptv.uwp.ac.cn/live/cctv2hd.m3u8
 
