@@ -1,58 +1,40 @@
 央视,#genre#
-CCTV-01，http://192.168.50.1:8080/rtp/239.3.1.129:8008
-CCTV-02，http://192.168.50.1:8080/rtp/239.3.1.60:8084
-CCTV-03，http://192.168.50.1:8080/rtp/239.3.1.172:8001
-CCTV-04，http://192.168.50.1:8080/rtp/239.3.1.105:8092
-CCTV-05，http://192.168.50.1:8080/rtp/239.3.1.173:8001
-CCTV-06，http://192.168.50.1:8080/rtp/239.3.1.174:8001
-CCTV-07，http://192.168.50.1:8080/rtp/239.3.1.61:8104
-CCTV-08，http://192.168.50.1:8080/rtp/239.3.1.175:8001 
-CCTV-09，http://192.168.50.1:8080/rtp/239.3.1.62:8112
-CCTV-10，http://192.168.50.1:8080/rtp/239.3.1.63:8116
-CCTV-11，http://192.168.50.1:8080/rtp/239.3.1.152:8120
-CCTV-12，http://192.168.50.1:8080/rtp/239.3.1.64:8124
-CCTV-13，http://192.168.50.1:8080/rtp/239.3.1.124:8128
-CCTV-14，http://192.168.50.1:8080/rtp/239.3.1.65:8132
-CCTV-15，http://192.168.50.1:8080/rtp/239.3.1.153:8136
-CCTV-16，http://192.168.50.1:8080/rtp/239.3.1.184:8001
-CCTV-17，http://192.168.50.1:8080/rtp/239.3.1.151:8144
-CCTV-4K，http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV-5+，http://192.168.50.1:8080/rtp/239.3.1.130:8004
-CCTV-1综合,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225923/index.m3u8?fmt=ts2hls
 
-CCTV-2财经,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/index.m3u8?fmt=ts2hls
+CCTV-1综合,rtsp://124.75.34.37/PLTV/88888888/224/3221226102/00000100000000060000000000009784_0.smil
 
-CCTV-3综艺,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8?fmt=ts2hls
+CCTV-2财经,http://hellotv-iptv.uwp.ac.cn/live/cctv2hd.m3u8
 
-CCTV-4中文国际,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225774/index.m3u8?fmt=ts2hls
+CCTV-3综艺,http://hellotv-iptv.uwp.ac.cn/live/cctv3hd.m3u8
+
+CCTV-4中文国际,http://hellotv-iptv.uwp.ac.cn/live/cctv4hd.m3u8
 
 CCTV-4国际美洲,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/index.m3u8?fmt=ts2hls
 
 CCTV-4国际欧洲,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/index.m3u8?fmt=ts2hls
 
-CCTV-5体育,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225658/index.m3u8?fmt=ts2hls
+CCTV-5体育,http://hellotv-iptv.uwp.ac.cn/live/cctv5hd.m3u8
 
-CCTV-5+体育赛事,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8?fmt=ts2hls
+CCTV-5+体育赛事,http://hellotv-iptv.uwp.ac.cn/live/cctv5phd.m3u8
 
-CCTV-6电影,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8?fmt=ts2hls
+CCTV-6电影,http://hellotv-iptv.uwp.ac.cn/live/cctv6hd.m3u8
 
-CCTV-7国防军事,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/index.m3u8?fmt=ts2hls
+CCTV-7国防军事,http://hellotv-iptv.uwp.ac.cn/live/cctv7hd.m3u8
 
-CCTV-8电视剧,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/index.m3u8?fmt=ts2hls
+CCTV-8电视剧,http://hellotv-iptv.uwp.ac.cn/live/cctv8hd.m3u8
 
-CCTV-9纪录,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225919/index.m3u8?fmt=ts2hls
+CCTV-9纪录,http://hellotv-iptv.uwp.ac.cn/live/cctv9hd.m3u8
 
-CCTV-10科教,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/index.m3u8?fmt=ts2hls
+CCTV-10科教,http://hellotv-iptv.uwp.ac.cn/live/cctv10hd.m3u8
 
 CCTV-11戏曲,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225670/index.m3u8?fmt=ts2hls
 
-CCTV-12社会与法制,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/index.m3u8?fmt=ts2hls
+CCTV-12社会与法制,http://hellotv-iptv.uwp.ac.cn/live/cctv12hd.m3u8
 
-CCTV-13新闻,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225957/index.m3u8?fmt=ts2hls
+CCTV-13新闻,http://103.198.18.1:8082/TV4020.m3u8
 
-CCTV-14卡通,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/index.m3u8?fmt=ts2hls
+CCTV-14卡通,http://hellotv-iptv.uwp.ac.cn/live/cctv14hd.m3u8
 
-CCTV-15音乐,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225673/index.m3u8?fmt=ts2hls
+CCTV-15音乐,http://103.198.18.1:8082/TV4012.m3u8
 
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
