@@ -1,9 +1,11 @@
 央视,#genre#
 
+CCTV-1综合,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
 CCTV-1综合,https://epg.pm/stream/922413d86db839d4ec249763ba65532ef3c7b9f5666f4959131d7d1e96b52e57.m3u8
 
 CCTV-2财经,https://epg.pm/stream/022ebf6dabfb22c3beef80c7ae862c6cf19f2a6815908fdd54f8c910a9a72f4f.m3u8
 
+CCTV-3综艺,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
 CCTV-3综艺,https://epg.pm/stream/3da8d52afda778a5017a6f3ee0a99a021af70a0aea2e16167e46dc09ac3e9f73.m3u8
 
 CCTV-4中文国际,https://epg.pm/stream/132f22235b80350ea8dc1dc3b44d709f15fd7cbd062a2ccf70e7e2d6641c13ee.m3u8
@@ -12,6 +14,7 @@ CCTV-4国际美洲,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/
 
 CCTV-4国际欧洲,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/index.m3u8?fmt=ts2hls
 
+CCTV-5体育,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV-5体育,https://epg.pm/stream/2d5d38207adc7a3cfafa51c9ae6e78f3c81675bfb37f6196848e302a3989fbbe.m3u8
 
 CCTV-5+体育赛事,https://epg.pm/stream/665cdffb4285f033f712640c60310b261ed0b293f4aa59ebbefefea885795463.m3u8
@@ -20,6 +23,7 @@ CCTV-6电影,https://epg.pm/stream/3cf633cb9803db881e44e791e2d389382e37a698fc2f8
 
 CCTV-7国防军事,http://39.135.138.58:18890/TVOD/88888888/224/3221225624/index.m3u8
 
+CCTV-8电视剧,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
 CCTV-8电视剧,https://epg.pm/stream/969d992bf700592e757397ee23b88c20ddda79621bb48579a4a55d3059360321.m3u8
 
 CCTV-9纪录,https://epg.pm/stream/81ebe413fd3342cdf83dafd9827aedaeb01552f2a8215e808c6230392b2e2910.m3u8 
@@ -45,9 +49,9 @@ CCTV-4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 CCTV-4K超高清,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 
 卫视,#genre#
-湖南卫视,http://222.132.191.125:9901/tsfile/live/0128_1.m3u8
+湖南卫视,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8?dt_dapp=1
 
-浙江卫视,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8?fmt=ts2hls
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 江苏卫视,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8?fmt=ts2hls
 
