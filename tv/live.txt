@@ -2,6 +2,7 @@
 
 CCTV-1综合,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
 CCTV-1综合,https://epg.pm/stream/922413d86db839d4ec249763ba65532ef3c7b9f5666f4959131d7d1e96b52e57.m3u8
+CCTV-1综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 
 CCTV-2财经,https://epg.pm/stream/022ebf6dabfb22c3beef80c7ae862c6cf19f2a6815908fdd54f8c910a9a72f4f.m3u8
 
