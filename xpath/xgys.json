@@ -15,7 +15,7 @@
 "主演":"主演：&&</div>",
 "简介":"<p>&&</p>",
 "线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>+集",
+"线路标题":"<span>&&</small>",
 "播放数组":"module-play-list\">&&</div>",
 "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
 "分类url":"https://www.xigutv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
