@@ -1,87 +1,248 @@
 {
-    "title": "城市电影",
-    "author": "灰太狼",
-    "UserAgent":"MOBILE_UA", //可填MOBILE_UA或PC_UA内置手机或电脑UA
-    "Referer":"WebView", //一般很少用，留空或删除
-    "homeContent":"1", //开启首页，0关闭，1开启
-  //分类数据
-    "firstpage": "1",  //起始页码。
-    //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    //https://www.citydy.com/show/id-{cateId}/page/{catePg}.html
-    "class_url": "https://www.citydy.com/type/id-{cateId}-{catePg}.html",
-    "class_name": "电影&电视剧&综艺&动漫",   //分类名，分类1&分类2&分类3
-    "class_value": "1&2&3&4",
-    "filterdata":{},
-    //数组数据
-    "cat_YN_twice": "0", //分类是否二次截取
-    "cat_twice_pre": "",  //分类二次截取前
-    "cat_twice_suf": "",  //分类二次截取后 
-    "cat_arr_pre": "class=\"col-sm-6", //分类数组截取前  
-    "cat_arr_suf": "</li>",  //分类数组截取后 
-    "cat_pic": "data-original=\"&&\"", //图片截取前缀&&截取后缀  
-    "cat_title": "title=\"&&\"",  //标题，截取前缀&&截取后缀
-    "cat_subtitle": "text-right\">&&</span>",  //副标题，截取前缀&&截取后缀
-    "cat_url": "href=\"&&\"",    //链接，截取前缀&&截取后缀
-    "cat_prefix": "https://www.citydy.com",  //链接前缀 
-    "cat_suffix": "",  //链接补后缀  
-    //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
-    //POST链接示例 https://www.citydy.com/index.php?m=vod-search;post
-    "search_url": "https://www.citydy.com/index.php/ajax/suggest?mid=1&wd={wd}",
-    //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
-    "sea_PtBody":"",
-    //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
-    "search_mode": "0",
-    "jsonpic": "pic",  //json片单图片
-    "jsonname": "name",  //json片单标题
-    "jsonid": "id",  //json片单链接
-    "jsonstitle":"",  //json片单副标题，这个很少有，预留着
-    "sea_YN_twice": "0",  //搜索是否二次截取  
-    "sea_twice_pre": "空",   //搜索二次截取前
-    "sea_twice_suf": "空",  //搜索二次截取后
-    "sea_arr_pre": "空",  //搜索数组前缀
-    "sea_arr_suf": "空",   //搜索数组后缀
-    "sea_pic": "data-original=\"&&\"",   //搜索图片截取前缀&&截取后缀
-    "sea_title": "title=\"&&\"",  //搜索标题，截取前缀&&截取后缀 
-    "sea_url": "href=\"&&\"",  //搜索链接，截取前缀&&截取后缀
-    "search_prefix": "https://www.citydy.com/detail/id-",  //搜索链接补前缀
-    "search_suffix": ".html",   //搜索链接补后缀，这个一般json搜索的需要
-    "sea_subtitle": "",  //搜索副标题，截取前缀&&截取后缀
-    //直接播放数据
-    "force_play": "0",  //链接是否直接播放，1播放，0否。
-    "play_prefix": "https://live.52sf.ga/huya/",  //直接播放链接补前缀
-    //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
-    "play_suffix": "#isVideo=true#",
-    //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
-    "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
-    //演员与简介
-    "proj_actor": "主演：</span>&&</a>",  //演员截取前缀&&截取后缀
-    "proj_plot": "简介：</span>&&</p>",  //简介内容，截取前缀&&截取后缀    
-    //线路名数据
-    "tab_YN_twice": "1",  //线路是否二次截取
-    "tab_twice_pre": "<!--a rel=\"nofollow\"",  //线路二次截取前
-    "tab_twice_suf": "class=\"container clearfix",  //线路二次截取后
-    "tab_arr_pre": "<li id=\"#con_playlist",  //线路截取数组前
-    "tab_arr_suf": "/li>",  //线路截取数组后
-    "tab_title": "void(0);\">&&</a>",   //线路标题，截取前缀&&截取后缀
-    //播放列表及数据
-    "list_YN_twice": "0",  //列表是否二次截取
-    "list_twice_pre": "空",  //列表二次截取前
-    "list_twice_suf": "空",  //列表二次截取后
-    "list_arr_pre": "class=\"play-div-oa",   //列表数组截取前，必须
-    "list_arr_suf": "</div>",   //列表数组截取后，必须
-    "epi_YN_twice": "0",   //集数是否二次截取
-    "epi_twice_pre": "空",  //集数二次截取前  
-    "epi_twice_suf": "空",  //集数二次截取后
-    "epi_arr_pre": "<a",   //集数数组截取前，必须
-    "epi_arr_suf": "/a>",  //集数数组截取后，必须
-    "epi_title": ">&&<",  //标题截取前缀&&截取后缀
-    "epi_url": "href=\"&&\"",  //链接截取前缀&&截取后缀
-    "epiurl_prefix": "https://www.citydy.com",  //链接补前缀
-    "epiurl_suffix": "",   //集数链接补后缀
-    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析为1没有折为0
-    "Anal_MacPlayer":"0",
-    //网页嗅探关键词开启有效，0否，1是
-    "ManualSniffer":"1",
-    //嗅探视频链接关键词每个用#隔开
-    "VideoFormat":".mp4#.m3u8#shtpin.com"
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "城市电影",
+  "主页url": "https://www.citydy.com",
+  
+  "分类": "电影&电视剧&综艺&动漫&记录片",
+  "分类值": "1&2&3&4&5",
+  
+  "分类url": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html",
+  
+  "副标题": "text-right\">&&</span>",
+  
+  "搜索模式": "0",
+  "搜索后缀": "/detail/id-",
+  
+  "影片年代": "年代：&&</li>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "类型：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "简介：&&</p>",
+  
+  "线路数组": "#con_playlist_*\">&&/a>",
+  "线路标题": ">&&<[不包含:下载APP播放]",
+  
+  "播放数组": "play-div-oa\">&&</div>",
+  
+  "筛选":{
+"1":[
+  {"key":"class","name":"剧情","value":[
+  {"n":"全部","v":""},
+  {"n":"喜剧","v":"/class/喜剧"},
+  {"n":"爱情","v":"/class/爱情"},
+  {"n":"恐怖","v":"/class/恐怖"},
+  {"n":"动作","v":"/class/动作"},
+  {"n":"科幻","v":"/class/科幻"},
+  {"n":"剧情","v":"/class/剧情"},
+  {"n":"战争","v":"/class/战争"},
+  {"n":"犯罪","v":"/class/犯罪"},
+  {"n":"灾难","v":"/class/灾难"},
+  {"n":"奇幻","v":"/class/奇幻"},
+  {"n":"悬疑","v":"/class/悬疑"},
+  {"n":"惊悚","v":"/class/惊悚"},
+  {"n":"冒险","v":"/class/冒险"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"大陆","v":"/area/大陆"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"美国","v":"/area/美国"},
+  {"n":"法国","v":"/area/法国"},
+  {"n":"英国","v":"/area/英国"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"韩国","v":"/area/韩国"},
+  {"n":"德国","v":"/area/德国"},
+  {"n":"泰国","v":"/area/泰国"},
+  {"n":"印度","v":"/area/印度"},
+  {"n":"其他","v":"/area/其他"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"},
+  {"n":"2008","v":"/year/2008"},
+  {"n":"2000","v":"/year/2000"},
+  {"n":"1997","v":"/year/1997"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"2":[
+  {"key":"class","name":"剧情","value":[
+  {"n":"全部","v":""},
+  {"n":"古装","v":"/class/古装"},
+  {"n":"战争","v":"/class/战争"},
+  {"n":"偶像","v":"/class/偶像"},
+  {"n":"犯罪","v":"/class/犯罪"},
+  {"n":"奇幻","v":"/class/奇幻"},
+  {"n":"剧情","v":"/class/剧情"},
+  {"n":"历史","v":"/class/历史"},
+  {"n":"网剧","v":"/class/网剧"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"大陆","v":"/area/大陆"},
+  {"n":"韩国","v":"/area/韩国"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"美国","v":"/area/美国"},
+  {"n":"泰国","v":"/area/泰国"},
+  {"n":"英国","v":"/area/英国"},
+  {"n":"新加坡","v":"/area/新加坡"},
+  {"n":"其他","v":"/area/其他"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"},
+  {"n":"2008","v":"/year/2008"},
+  {"n":"2000","v":"/year/2000"},
+  {"n":"1997","v":"/year/1997"},
+  {"n":"1980","v":"/year/1980"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"3":[
+  {"key":"class","name":"剧情","value":[
+  {"n":"全部","v":""},
+  {"n":"相声","v":"/class/相声"},
+  {"n":"真人秀","v":"/class/真人秀"},
+  {"n":"脱口秀","v":"/class/脱口秀"},
+  {"n":"选秀","v":"/class/选秀"},
+  {"n":"情感","v":"/class/情感"},
+  {"n":"访谈","v":"/class/访谈"},
+  {"n":"播报","v":"/class/播报"},
+  {"n":"旅游","v":"/class/旅游"},
+  {"n":"音乐","v":"/class/音乐"},
+  {"n":"美食","v":"/class/美食"},
+  {"n":"纪实","v":"/class/纪实"},
+  {"n":"舞蹈","v":"/class/舞蹈"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"大陆","v":"/area/大陆"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"欧美","v":"/area/欧美"},
+  {"n":"韩国","v":"/area/韩国"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"},
+  {"n":"2008","v":"/year/2008"},
+  {"n":"2000","v":"/year/2000"},
+  {"n":"1997","v":"/year/1997"},
+  {"n":"1980","v":"/year/1980"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"4":[
+  {"key":"class","name":"剧情","value":[
+  {"n":"全部","v":""},
+  {"n":"科幻","v":"/class/科幻"},
+  {"n":"热血","v":"/class/热血"},
+  {"n":"推理","v":"/class/推理"},
+  {"n":"搞笑","v":"/class/搞笑"},
+  {"n":"冒险","v":"/class/冒险"},
+  {"n":"萝莉","v":"/class/萝莉"},
+  {"n":"校园","v":"/class/校园"},
+  {"n":"动作","v":"/class/动作"},
+  {"n":"机战","v":"/class/机战"},
+  {"n":"运动","v":"/class/运动"},
+  {"n":"战争","v":"/class/战争"},
+  {"n":"少年","v":"/class/少年"},
+  {"n":"少女","v":"/class/少女"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"大陆","v":"/area/大陆"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"欧美","v":"/area/欧美"},
+  {"n":"海外","v":"/area/海外"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"},
+  {"n":"2008","v":"/year/2008"},
+  {"n":"2000","v":"/year/2000"},
+  {"n":"1997","v":"/year/1997"},
+  {"n":"1980","v":"/year/1980"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"5":[
+  {"key":"class","name":"剧情","value":[
+  {"n":"全部","v":""},
+  {"n":"历史","v":"/class/历史"},
+  {"n":"传记","v":"/class/传记"},
+  {"n":"生活","v":"/class/生活"},
+  {"n":"人文","v":"/class/人文"},
+  {"n":"地理","v":"/class/地理"},
+  {"n":"舞台","v":"/class/舞台"},
+  {"n":"专题","v":"/class/专题"},
+  {"n":"时事","v":"/class/时事"},
+  {"n":"宣传","v":"/class/宣传"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"大陆","v":"/area/大陆"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"欧美","v":"/area/欧美"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"},
+  {"n":"2008","v":"/year/2008"},
+  {"n":"2000","v":"/year/2000"},
+  {"n":"1997","v":"/year/1997"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}]}
 }
