@@ -27,7 +27,7 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#高分影视$gaofenyingshi#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju#动漫$dm",
-"分类url": "https://www.czspp.com/{cateId}/page/{catePg}",
+"分类url": "https://www.c-zzy.com/{cateId}/page/{catePg}",
 "筛选":{
 "dyy":[
 {
