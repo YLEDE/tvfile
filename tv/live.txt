@@ -70,9 +70,9 @@ CCTV-16奥林,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212
 CCTV-17农业,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225909/2/index.m3u8
 CCTV-17农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 
+CCTV-4K超高清,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-4K超高清,https://p.ggiptv.com/v/4k.m3u8
-CCTV-4K超高清,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 
 卫视,#genre#
 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8
@@ -220,8 +220,8 @@ CCTV-4K超高清,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20002663
 晋江卫视,http://stream.jinjiang.tv/1/sd/live.m3u8
 
 4K,#genre#
-CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8 
-CCTV-4K超高清,https://p.ggiptv.com/v/4k.m3u8
+CCTV-4K超高清,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 爱上,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls 
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8 
