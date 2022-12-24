@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"555电影",
-"主页url":"https://www.555ys1.com/",
+"主页url":"https://www.555ys1.com",
 "二次截取":"class=\"module-items&&class=\"fixedGroup",
 "数组":"<a&&module-poster-item-info",
 "图片":"data-original=\"&&\"",
@@ -17,7 +17,7 @@
 "搜索副标题":"note\">&&</div>",
 "搜索后缀":"/voddetail/",
 "线路数组":"<div class=\"module-tab-item tab-item&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
+"线路标题":"<span>&&</small>",
 "播放数组":"class=\"module-play-list\"&&</div>",
 "影片类型":"<div class=\"module-info-tag\">&&<div class=\"module-mobile-play\">",
 "导演":"导演：</span>&&</div>",
@@ -26,9 +26,11 @@
 "播放列表":"<a&&/a>",
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
-"分类":"电影&连续剧&福利&动漫&综艺纪录",
-"分类值":"1&2&124&4&3",
-"分类url":"https://www.555ys1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"Netflix&电影&连续剧&综艺纪录&动漫&福利",
+//"分类值":"1&2&124&4&3",
+//"分类url":"https://www.555ys1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类值": "label/netflix&vodtype/1&vodtype/2&vodtype/3&vodtype/4&vodtype/124",
+"分类url": "https://www.555ys1.com/{cateId}/page/{catePg}.html",
 "免嗅":"1",
 "筛选":{
 "1":[
