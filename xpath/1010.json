@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"双十电影",
-"主页url":"https://www.1010dy3.com",
+"主页url":"https://www.1010dy.cc",
 "副标题":"text-right\">&&</span>",
 "搜索模式":"1",
 "搜索url":"/search/page/{pg}/wd/{wd}/",
@@ -19,7 +19,7 @@
 "线路标题":"class=\"title\">&&</h3>",
 "播放数组":"<ul class=\"stui-content&&</ul>",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
-"分类url":"https://www.1010dy3.com/show/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}",
+"分类url":"https://www.1010dy.cc/show/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}",
 "免嗅":"1",
 "筛选":{
 "1":[
