@@ -2,16 +2,15 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "COKEMV",
   "主页url": "https://cokemv.me",
-  "免嗅": "1",
   
-  "分类": "电影$1#电视剧$2#动漫$3#综艺$29",
+  "分类": "电影&电视剧&动漫&综艺",
+  "分类值": "1&2&3&29",
   
   "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "0",
-  "搜索url": "https://cokemv.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
   "搜索后缀":"/voddetail/",
   
   "导演": "导演：&&</div>",
