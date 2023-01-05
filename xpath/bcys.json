@@ -4,7 +4,7 @@
 "主页url":"https://www.bcwzg.com",
 "副标题":"note\">&&</div>",
 "搜索url":"https://www.bcwzg.com/vodsearch/{wd}----------{pg}---/",
-"搜索模式":"1",
+"搜索模式":"0",
 "搜索数组":"module-item\">&&</a>",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"alt=\"&&\"",
