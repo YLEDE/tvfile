@@ -1,9 +1,9 @@
 {
 "作者":"张弘",
 "站名":"北川影视",
-"主页url":"https://www.bcwzg.com",
+"主页url":"http://bczhuiju.com",
 "副标题":"note\">&&</div>",
-"搜索url":"https://www.bcwzg.com/vodsearch/{wd}----------{pg}---/",
+"搜索url":"http://bczhuiju.com/vodsearch/{wd}----------{pg}---/",
 "搜索模式":"1",
 "搜索数组":"module-item\">&&</a>",
 "搜索图片":"data-original=\"&&\"",
@@ -21,7 +21,7 @@
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.bcwzg.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+"分类url":"http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
 "免嗅":"1",
 "筛选":
 {
