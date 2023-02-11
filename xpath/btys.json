@@ -26,7 +26,7 @@
   "过滤词":".html#=http",
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
   "分类url": "https://www.bilituys.com/bilitype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  "搜索模式": "0",
+  "搜索模式": "1",
   "搜索url": "/bilisch/{wd}-/page/1.html", 
   "搜索数组": "module-card-item-class&&referrerpolicy=\"no-referrer\"",
   "搜索图片": "data-original=\"&&\"",
