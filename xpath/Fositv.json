@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"小猫咪",
-"主页url":"http://www.fositv.com",
+"主页url":"https://fositv.com",
 "数组":"class=\"myui-vodlist__thumb&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -17,8 +17,8 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-"播放链接前缀":"http://www.fositv.com",
-"搜索url":"http://www.fositv.com/vod______________________________search/-------------.html?wd={wd}&submit=",
+"播放链接前缀":"https://fositv.com",
+"搜索url":"https://fositv.com/vod______________________________search/-------------.html?wd={wd}&submit=",
 "搜索模式":"1",
 "搜索数组":"<li class=\"clearfix\">&&</li>",
 "搜索图片":"data-original=\"&&\"",
@@ -26,7 +26,7 @@
 "搜索副标题":"text-right\">&&</span>",
 "搜索链接":"href=\"&&\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录$5",
-"分类url":"http://www.fositv.com/vod______________________________show/{cateId}-{area}-{by}------{catePg}---{year}.html",
+"分类url":"https://fositv.com/vod______________________________show/{cateId}-{area}-{by}------{catePg}---{year}.html",
 "免嗅":"1",
 "筛选":{
 "1":[
