@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
-  "站名": "耐看点播",
-  "主页url": "https://www.nkvod.com",
+  "站名": "来看点播",
+  "主页url": "https://www.lkvod.com/",
   
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
+  "分类url": "https://www.lkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
