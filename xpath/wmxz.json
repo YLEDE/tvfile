@@ -29,12 +29,12 @@
     "搜索链接前缀": "/vodplay/",
     
     "搜索链接后缀": "-1-1/",
-  
+        
     "线路数组": "mdui-panel-item-title&&/div>",
-      
+        
     "线路标题": ">&&<",
-      
-    "播放数组": "mdui-panel-item-body&&<div",
+  
+    "播放数组": "mdui-panel-item-body\">&&<div",
     
     "分类url":"https://blssv.com/vodshow-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/;;amk",
     
