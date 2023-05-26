@@ -125,7 +125,7 @@ CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PL
 卫视,#genre#
 湖南卫视,https://cntv.sbs/v605?id=hnwsH265
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-湖南卫视,http://[2409:8087:5c00:10:5::a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225719/index.m3u8
+湖南卫视,http://[2409:8087:5c00:10:5::124]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225692/index.m3u8
 湖南卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
