@@ -33,7 +33,6 @@ CCTV-5体育,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLT
 CCTV-5体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 
-
 CCTV-5+赛事,https://cntv.sbs/v605?id=CCTV-5plusH265
 CCTV-5+赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV-5+赛事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
