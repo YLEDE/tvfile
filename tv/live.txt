@@ -4,7 +4,6 @@ CCTV-1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
-CCTV-1综合,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-2财经,https://cntv.sbs/ipv6?auth=230612&id=CCTV-2H265
@@ -12,7 +11,6 @@ CCTV-2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2财经,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8
 CCTV-2财经,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8
-CCTV-2财经,http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 CCTV-2财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-3综艺,https://cntv.sbs/ipv6?auth=230612&id=CCTV-3H265
@@ -27,7 +25,6 @@ CCTV-4国际,https://cntv.sbs/ipv6?auth=230612&id=CCTV-4H265
 CCTV-4国际,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV-4国际,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8
-CCTV-4国际,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
 CCTV-4国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 
 CCTV-5体育,https://cntv.sbs/ipv6?auth=230612&id=CCTV-5H265
@@ -60,7 +57,6 @@ CCTV-7军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index
 CCTV-7军事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7军事,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8
 CCTV-7军事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-7军事,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 
 CCTV-8电视剧,https://cntv.sbs/ipv6?auth=230612&id=CCTV-8H265
 CCTV-8电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
@@ -75,14 +71,12 @@ CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9纪录,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-9纪录,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 
 CCTV-10科教,https://cntv.sbs/ipv6?auth=230612&id=CCTV-10H265
 CCTV-10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10科教,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10科教,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
-CCTV-10科教,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8
 CCTV-10科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-11戏曲,https://cntv.sbs/ipv6?auth=230612&id=CCTV-11-H265
@@ -97,7 +91,6 @@ CCTV-12社会,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/inde
 CCTV-12社会,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 CCTV-12社会,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8
 CCTV-12社会,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-12社会,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
 
 CCTV-13新闻,https://cntv.sbs/ipv6?auth=230612&id=CCTV-xw
 CCTV-13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
@@ -105,7 +98,6 @@ CCTV-13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/inde
 CCTV-13新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
 CCTV-13新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-13新闻,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
 
 CCTV-14少儿,https://cntv.sbs/ipv6?auth=230612&id=CCTV-14H265
 CCTV-14少儿,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
@@ -120,7 +112,6 @@ CCTV-15音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/inde
 CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
 CCTV-15音乐,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
-CCTV-16奥林,https://cntv.sbs/ipv6?auth=230612&id=CCTV-16
 CCTV-16奥林,https://cntv.sbs/ipv6?auth=230612&id=CCTV-16-4K_8000
 CCTV-16奥林,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-16奥林,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
@@ -138,6 +129,7 @@ CCTV-17农业,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88
 CCTV-17农业,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV-4K超高清,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K超高清,https://cntv.sbs/ipv6?auth=230612&id=ys4Kcq_2000
 CCTV-4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
@@ -146,80 +138,66 @@ CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PL
 湖南卫视,https://cntv.sbs/ipv6?auth=230612&id=hnwsH265
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-湖南卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 东方卫视,https://cntv.sbs/ipv6?auth=230612&id=dfwsH265
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-东方卫视,http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227199/index.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 浙江卫视,https://cntv.sbs/ipv6?auth=230612&id=zjwsH265
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-浙江卫视,http://[2409:8087:4402:20:1:1216:401:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 江苏卫视,https://cntv.sbs/ipv6?auth=230612&id=jswsH265
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-江苏卫视,http://[2409:8087:4402:20:1:1216:401:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 北京卫视,https://cntv.sbs/ipv6?auth=230612&id=bjwsH265
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卫视,http://[2409:8087:4402:20:1:1216:401:2c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 安徽卫视,https://cntv.sbs/ipv6?auth=230612&id=ahwsH265
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-安徽卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 山东卫视,https://cntv.sbs/ipv6?auth=230612&id=sdwsH265
 山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-山东卫视,http://[2409:8087:4400:20:1:a0f:12:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 深圳卫视,https://cntv.sbs/ipv6?auth=230612&id=szwsH265
 深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-深圳卫视,http://[2409:8087:4400:20:1:a0f:12:28]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227203/index.m3u8
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 天津卫视,https://cntv.sbs/ipv6?auth=230612&id=tjwsH265
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-天津卫视,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 江西卫视,https://cntv.sbs/ipv6?auth=230612&id=jxwsH265
 江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
 江西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
-江西卫视,http://[2409:8087:4400:20:1:a0f:12:d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-江西卫视,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8
 
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
 辽宁卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?
-辽宁卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 黑龙江卫视,https://cntv.sbs/ipv6?auth=230612&id=hljwsH265
 黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-黑龙江卫视,http://[2409:8087:4402:20:1:1216:401:2c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 湖北卫视,https://cntv.sbs/ipv6?auth=230612&id=hbwsH265
 湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-湖北卫视,http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227238/index.m3u8
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 广东卫视,https://cntv.sbs/ipv6?auth=230612&id=gdwsH265
@@ -231,7 +209,6 @@ CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PL
 四川卫视,https://cntv.sbs/ipv6?auth=230612&id=scwsH265
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?
-四川卫视,http://[2409:8087:4402:20:1:1216:401:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
 
 重庆卫视,https://cntv.sbs/ipv6?auth=230612&id=cqwsH265
 重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -375,26 +352,26 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 SiTV,#genre#
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
-都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+都市剧场,https://cntv.sbs/live?auth=230612&id=dsjc
 都市剧场.http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8?
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+生活时尚,https://cntv.sbs/live?auth=230612&id=shss
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+魅力足球,https://cntv.sbs/live?auth=230612&id=mlzq
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
-东方财经,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
+东方财经,https://cntv.sbs/live?auth=230612&id=dfcj
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
-金色学堂,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
+金色学堂,https://cntv.sbs/live?auth=230612&id=jspd
 金色学堂,http://222.65.21.143:4022/udp/239.45.0.9:5140
-法治天地,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
+法治天地,https://cntv.sbs/live?auth=230612&id=fztd
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 SiTV全纪实,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 SiTV都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 SiTV七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
-SiTV哈哈炫动,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
+SiTV哈哈炫动,https://cntv.sbs/live?auth=230612&id=hhxd
 SiTV哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 SiTV陶瓷高清,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 SiTV足球高清,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
