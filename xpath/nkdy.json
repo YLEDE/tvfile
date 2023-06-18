@@ -1,26 +1,25 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
-  "站名": "来看点播",
-  "主页url": "https://www.lkvod.com/",
-  
-  "分类": "电影&电视剧&综艺&动漫",
-  "分类值": "1&2&3&4",
-  
-  "分类url": "https://www.lkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
-  
-  "副标题": "module-item-note\">&&</div>",
-  
-  "搜索模式": "0",
-  "搜索后缀":"/detail/",
-  
-  "导演": "导演：&&</div>",
-  "主演": "主演：&&</div>",
-  "简介": "<p>&&</p>",
-  
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>",
-  
-  "播放数组":"<div class=\"module-play-list\">&&</div>",
+  "影片类型": "<div class=\"module-blocklist\">&&</div>",
+  "导演":"导演：&&</div>",
+  "主演":"主演：&&</div>",
+  "简介":"video-info-item video-info-content vod_content\">&&</span>",
+  "数组":"class=\"module-item-pic&&class=\"video-class",
+  "图片":"data-src=\"&&\"",
+  "标题":"title=\"&&\"",
+  "链接":"href=\"&&\"",
+  //"副标题":"<span>&&</span>",
+
+  "搜索图片":"http://xhww.fun:63/小米/4.jpeg",
+  "线路数组":"module-tab-item tab-item&&</div>",
+  "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+
+  "播放数组":"class=\"module-blocklist\">&& </div>",
+  "播放列表": "<a&&</a>",
+  "播放标题": "<span>&&</span>",
+  "播放链接": "href=\"&&\"",
+  "免嗅":"1",
+  "分类":"动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
+  "分类url":"https://www.lkvod.cc/show/{cateId}-{ares}-{by}-{class}-{lang}----{catePg}---{year}.html;;m"
   
   "筛选":{
   "1":[
