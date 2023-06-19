@@ -390,6 +390,21 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 
+SiTV,#genre#
+SiTV动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
+SiTV游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
+SiTV法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
+SiTV劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
+SiTV魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+SiTV金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+SiTV欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
+SiTV七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
+SiTV生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+SiTV乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
+SiTV都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+SiTV东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
+SiTV新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
+
 BesTV,#genre#
 BesTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001148/index.m3u8
 BesTV电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -409,21 +424,6 @@ BesTV全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 BesTV4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-
-SiTV,#genre#
-SiTV动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-SiTV游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-SiTV法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-SiTV劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
-SiTV魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-SiTV金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-SiTV欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-SiTV七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-SiTV生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-SiTV乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-SiTV都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-SiTV东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-SiTV新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 
 NewTV,#genre#
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
