@@ -252,7 +252,7 @@ CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PL
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,https://cntv.sbs/ipv6?auth=230612&id=gxws
 
-湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8?
+海南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8?
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,https://cntv.sbs/ipv6?auth=230612&id=hnws
 
