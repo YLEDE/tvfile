@@ -351,14 +351,18 @@ CCTV-16,https://cntv.sbs/ipv6?auth=230612&id=CCTV-16-4K_8000
 真4K,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 影视4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-BesTV4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 咪咕4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京纪实科教8K,http://159.75.85.63:6798
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 特色#genre#
+IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+IPTV萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+IPTV淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+IPTV淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -403,6 +407,8 @@ BesTV星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
 BesTV谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
 BesTV全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+BesTV4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 
 SiTV,#genre#
 SiTV动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
