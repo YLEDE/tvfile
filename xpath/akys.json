@@ -48,7 +48,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
