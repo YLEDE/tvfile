@@ -19,7 +19,7 @@
   "搜索数组": "{&&}[不包含:肥猫不肥]",
   "搜索图片": "vod_pic\"*\"&&\"",
   "搜索标题": "vod_name\"*\"&&\"",
-  "搜索副标题": "vod_remarks\"*\"&&\"[替换:肥猫4K>>小米4K]",
+  "搜索副标题": "vod_remarks\"*\"&&\"",
   "搜索链接": "http://xn--yeta099v.online:66//api.php/provide/vod?ac=detail&ids=+vod_id\":&&,",
   "影片类型": "vod_class\"*\"&&\"",
   "导演": "vod_director\"*\"&&\"",
