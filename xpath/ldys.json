@@ -1,5 +1,5 @@
 {
-    "分类url": "https://ldtv.top/vodshow/{cateId}--------{catePg}---{year}.html", 
+    "分类url": "https://ldtv.top/vodshow/{cateId}--{by}------{catePg}---.html", 
     "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
     "分类": "电影&剧集&动漫&综艺&记录片", 
     "分类值": "dianying&lianxuju&dongman&zongyi&jilupian", 
