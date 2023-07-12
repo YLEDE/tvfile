@@ -1,3 +1,4 @@
+{
         "主页url": "http://www.dadagui.me/",
         "副标题": "pic-text text-right\">&&</b>",
         "搜索模式": "1",
@@ -14,3 +15,4 @@
         "跳转解析": "默认$空#高清有4K$https://www.dadagui.me/webcloud/?vid=#1080P无广$https://www.dadagui.me/webcloud/?vid=",
         "跳转播放链接": "解析+link_pre*url\":\"&&\"",
         "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+}
