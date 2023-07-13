@@ -1,11 +1,11 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "VOFLIX",
-  "主页url": "https://www.voflix.com",
+  "主页url": "https://www.voflix.me",
   
   "分类": "电影$1#剧集$2#动漫$4#综艺$3#国产剧$13#日韩剧$15#欧美剧$16",
   
-  "分类url": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
