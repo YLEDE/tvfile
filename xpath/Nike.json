@@ -6,16 +6,16 @@
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "Movie&Tv&Variety&Cartoon",
   
-  "分类url": "https://www.mazhiming.com/show/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
+  "分类url": "https://www.mazhiming.com/vodshow/{cateId}-{area}-{by}-{class}-page-{catePg}------{year}.html",
   
   "二次截取": "<div class=\"module-items&&<div id=\"page\">",
   "标题": "alt=\"&&\"",
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "1",
-  "搜索url": "/search.html?wd={wd}",
-  "搜索数组": "module-item\">&&</a>",
-  "搜索图片": "data-original=\"&&\"",
+  "搜索url": "/vodsearch?wd={wd}",
+  "搜索数组": "module-search-item\">&&</a>",
+  "搜索图片": "data-src=\"&&\"",
   "搜索标题": "alt=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "搜索副标题": "module-item-note\">&&</div>",
